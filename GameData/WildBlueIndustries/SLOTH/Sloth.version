@@ -1,0 +1,18 @@
+{
+    "NAME":"Kerbal Actuators: S.L.O.T.H.",
+    "URL":"https://raw.githubusercontent.com/Angel-125/SLOTH/master/SLOTH/GameData/WildBlueIndustries/SLOTH/MoreServos.version",
+    "DOWNLOAD":"https://github.com/Angel-125/SLOTH/releases",
+    "GITHUB":
+    {
+        "USERNAME":"Angel-125",
+        "REPOSITORY":"SLOTH",
+        "ALLOW_PRE_RELEASE":false,
+    },
+    "VERSION":
+    {
+	"MAJOR":1,
+	"MINOR":0,
+	"PATCH":0,
+	"BUILD":0
+    }
+}
