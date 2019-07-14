@@ -19,5 +19,6 @@ Copy the contents of the mod's GameData directory into your GameData folder.
 - S.L.O.T.H. Ankle Joint: This joint fits onto the Flex Joint and is used to pivot wheels.
 - S.L.O.T.H. Wheel: This wheel is optimized to fix the S.L.O.T.H. leg system.
 - S.L.O.T.H. Cargo Palette: This palette is 2.5m square and built to haul whatever cargo desired.
+- S.L.O.T.H. Coupler: This is a very small docking port.
 
 Art Assets, including .mu, .mbm, and .dds files are copyright 2014-2016 by Michael Billard, All Rights Reserved.
