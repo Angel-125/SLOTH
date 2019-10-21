@@ -11,6 +11,12 @@ Copy the contents of the mod's GameData directory into your GameData folder.
 
 ---REVISION HISORY---
 
+1.1.0
+- Updated to KSP 1.8
+
+1.0.1
+Fixed model reference for the SLOTH Coupler
+
 1.0 Initial release
 - S.L.O.T.H. Rover Body: A combined probe core and robotics controller, the rover body forms the core of the S.L.O.T.H. system.
 - S.L.O.T.H. Hip Joint: This is the root part of the S.L.O.T.H. leg system. 
