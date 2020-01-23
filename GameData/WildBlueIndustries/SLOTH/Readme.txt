@@ -11,6 +11,9 @@ Copy the contents of the mod's GameData directory into your GameData folder.
 
 ---REVISION HISORY---
 
+1.1.1
+- Fixed textures
+
 1.1.0
 - Updated to KSP 1.8
 
